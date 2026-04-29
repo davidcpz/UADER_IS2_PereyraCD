@@ -1,3 +1,7 @@
 cdp_virtual/
 _pycache__/
 *.pyc
+
+.coverage
+.coverage.*
+htmlcov/

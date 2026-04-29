@@ -1,4 +1,4 @@
-# TP 4 - Patrones de Creación
+# TP 3 - Patrones de Creación
 
 ## Alumno
 Claudio David Pereyra
@@ -22,7 +22,7 @@ Trabajo práctico donde se implementan distintos patrones de diseño creacionale
 
 ## Ejecución
 
-Desde la carpeta TP_4:
+Desde la carpeta TP_3:
 
 ```bash
 python punto_1.py
